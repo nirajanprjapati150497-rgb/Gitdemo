@@ -1,0 +1,3 @@
+-- separate branch : day1branch
+mera naam niranjan hai 
+mei maksi rhata hu 
